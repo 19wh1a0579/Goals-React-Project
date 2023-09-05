@@ -31,6 +31,7 @@ const CourseInput = props => {
       </div>
       <Button type="submit">Add Goal</Button>
     </form>
+    
   );
 };
 
